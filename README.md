@@ -10,3 +10,5 @@
 + ## markdown-it (markdown文档转HTML)
 + ## blueimp-md5(md5加密)
 + ## request-promise-native(请求转发有关) 
++ ## esayui(UI插件集合体)
++ ## mermaid(mermaid是一款开源的画流程图、甘特图、时序图工具)
